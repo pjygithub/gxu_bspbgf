@@ -218,7 +218,7 @@ Issues： https://gitee.com/1301914984/gxu_byshejilunwenpaibanguifan/issues
 
 <a name="自动给中文英文之间加入合理的空格:" href="#目录">自动给中文英文之间加入合理的空格: </a>https://github.com/huacnlee/auto-correct
 
-<a name="中文网络文章排版规范" href="#目录">中文网络文章排版规范：</a>https://github.com/happyiterating/chinese-post-typesetting-guideline
+<a name="中文网络文章排版规范" href="#目录">中文网络文章排版规范： </a>https://github.com/happyiterating/chinese-post-typesetting-guideline
 
-<a name="中文网页重设与排版" href="#目录">中文网页重设与排版：</a>https://github.com/sofish/typo.css
+<a name="中文网页重设与排版" href="#目录">中文网页重设与排版： </a>https://github.com/sofish/typo.css
 
